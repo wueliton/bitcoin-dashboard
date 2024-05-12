@@ -4,7 +4,7 @@ import { Ticker } from "@models/Ticker";
 
 export enum CoinSymbol {
   BTCUSDT = "Bitcoin",
-  ETHUSDT = "Ether",
+  ETHUSDT = "Ethereum",
   SOLUSDT = "Solana",
   DOGEUSDT = "Dogecoin",
 }
